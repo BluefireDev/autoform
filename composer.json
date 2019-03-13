@@ -1,0 +1,7 @@
+{
+    "name": "bluefiredev/autoform",
+    "description": "Automatica generator CRUD for Laravel/React",
+    "require": {
+        "php": "^7.2"
+    }
+}
